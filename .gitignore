@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Advent of Code Data files
+/02/day02.tsv
